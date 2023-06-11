@@ -16,4 +16,4 @@ este archivo contiene el código de la solución del proyecto
 
 El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de bases de datos y SQL para ciencia de datos de IBM, para lo cual se plantea el siguiente problema:
 
-Se requiere hacer un analisis exploratorio de los datos en la ciudad de chicago.
+Se requiere hacer un analisis exploratorio de los datos sobre los crimenes ciudad de chicago.
