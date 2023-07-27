@@ -1,4 +1,10 @@
-#Este repositorio contiene los archivos necesarios para la entrega del proyecto final del curso de bases de datos y SQL para ciencia de datos de IBM
+# Databases and SQL for Data Science
+
+# Descripción
+
+El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de bases de datos y SQL para ciencia de datos de IBM, para lo cual se plantea el siguiente problema:
+
+Se requiere hacer un analisis exploratorio de los datos sobre los crimenes ciudad de chicago.
 
 ## Archivos
 
@@ -10,10 +16,6 @@ este archivo contiene la descripción del repositorio
 
 este archivo contiene el código de la solución del proyecto
 
-## Descripción del proyecto
+# Disclaimers
 
-### 1. Objetivo
-
-El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de bases de datos y SQL para ciencia de datos de IBM, para lo cual se plantea el siguiente problema:
-
-Se requiere hacer un analisis exploratorio de los datos sobre los crimenes ciudad de chicago.
+Este repositorio contiene los archivos necesarios para la entrega del proyecto final del curso de bases de datos y SQL para ciencia de datos de IBM
