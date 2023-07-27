@@ -1,6 +1,6 @@
 # Databases and SQL for Data Science
 
-# Descripción
+## Descripción
 
 El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de bases de datos y SQL para ciencia de datos de IBM, para lo cual se plantea el siguiente problema:
 
