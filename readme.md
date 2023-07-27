@@ -16,6 +16,6 @@ este archivo contiene la descripción del repositorio
 
 este archivo contiene el código de la solución del proyecto
 
-# Disclaimers
+## Disclaimers
 
 Este repositorio contiene los archivos necesarios para la entrega del proyecto final del curso de bases de datos y SQL para ciencia de datos de IBM
