@@ -1,21 +1,23 @@
 # Databases and SQL for Data Science
 
-## Descripción
+## Description
 
-El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de bases de datos y SQL para ciencia de datos de IBM, para lo cual se plantea el siguiente problema:
+The primary objective of this project is to apply the knowledge acquired in the IBM Databases and SQL for Data Science course. The project focuses on solving the following problem:
 
-Se requiere hacer un analisis exploratorio de los datos sobre los crimenes ciudad de chicago.
+Conduct an exploratory data analysis of crime data in the city of Chicago.
 
-## Archivos
+## Files
 
 ### 1. `readme.md`
 
-este archivo contiene la descripción del repositorio
+This file contains the repository's description.
 
 ### 2. `Databases_and_SQL_for_Data-Science_Final_Project.ipynb`
 
-este archivo contiene el código de la solución del proyecto
+This file contains the solution code for the project.
+
+---
 
 ## Disclaimers
 
-Este repositorio contiene los archivos necesarios para la entrega del proyecto final del curso de bases de datos y SQL para ciencia de datos de IBM
+This repository contains the necessary files for the final project submission of the IBM Databases and SQL for Data Science course.
